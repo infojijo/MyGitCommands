@@ -51,6 +51,11 @@ git checkout -b <new name>
 #10
 Push the new branch to remote repo.
 git push --set-upstream origin <name>
+  
+#11
+Merge two branches
+Be in the main branch - git checkout <branch>
+Merge - git merge <sub branch>
 
 
 
