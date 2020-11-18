@@ -33,4 +33,29 @@ Pushing your changes to Git server
 git push
 
 
+#7
+New branch
+
+git branch <name>
+
+#8
+Change to new branch
+
+git checkout <name>
+
+
+#9
+Create and change to new branch
+git checkout -b <new name>
+
+#10
+Push the new branch to remote repo.
+git push --set-upstream origin <name>
+
+
+
+
+
+
+
 
