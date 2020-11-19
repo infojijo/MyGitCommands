@@ -54,8 +54,8 @@ git push --set-upstream origin <name>
   
 #11
 Merge two branches
-Be in the main branch - git checkout <branch>
-Merge - git merge <sub branch>
+Be in the main branch - git checkout branch_name
+Merge - git merge sub_branch_name
 
 
 
